@@ -1,6 +1,6 @@
 <h1>👋 Welcome to my GitHub!<br/>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 My projects:</h2>
 
 - <b>🕹️ [Checkers](https://github.com/Sohan4513/Checkers)</b>:
   - Functional two-player checkers game in Python.
