@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>👋 Welcome to my github!<br/>
 
-<!--
-**Sohan4513/Sohan4513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>🕹️ [Checkers](https://github.com/Sohan4513/Checkers)</b>:
+  - Functional two-player checkers game in Python.
+- <b>🤖 [To-Do-Bot](https://github.com/Sohan4513/ToDoBot)</b>:
+  - A Python-based task managing bot that aids you in organizing various errands.
+- <b>🤔 [Guess The Number](https://github.com/Sohan4513/GuessTheNumber)</b>:
+  - A simple, but fun guessing game in C.
+- <b>📚 [Student Grade Calculator](https://github.com/Sohan4513/StudentGradeCalculator)</b>:
+  - A C-based calculator used to compute the GPA for a single or multiple classes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="Sohan Mulamalla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/sohan-mulamalla-7946602b1
