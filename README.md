@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>🗞️ [CDC-Data AI Analysis of Weight Correlation](https://github.com/Sohan4513/WeightCorrelationAIBot)</b>:
+- <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/Sohan4513/WeightCorrelationAIBot)</b>:
   - A data-driven project analyzing obesity-related factors using CDC BRFSS data through AI.
 - <b>🗞️ [News Chat Bot](https://github.com/Sohan4513/NewsChatBot)</b>:
   - A FastAPI-powered chatbot that fetches real-time news based on user interests and summarizes them.
