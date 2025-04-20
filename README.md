@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>📂 [Personal Portfolio Website](https://sohan-portfolio.tiiny.site/)</b>:
+  - A personal website to showcase projects and technical skills.
 - <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/Sohan4513/WeightCorrelationAIBot)</b>:
   - A data-driven project analyzing obesity-related factors using CDC BRFSS data through AI.
 - <b>🗞️ [News Chat Bot](https://github.com/Sohan4513/NewsChatBot)</b>:
