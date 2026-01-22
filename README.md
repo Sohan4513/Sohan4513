@@ -4,7 +4,7 @@
 
 - <b>📂 [Personal Portfolio Website](https://smulamalla.github.io/)</b>:
   - A personal website to showcase projects and technical skills.
-- <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/smulamalla/WeightCorrelationAIBot)</b>:
+- <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/smulamalla/WeightCorrelationAI)</b>:
   - A data-driven project analyzing obesity-related factors using CDC BRFSS data through AI.
 - <b>🗞️ [News Chat Bot](https://github.com/smulamalla/NewsChatBot)</b>:
   - A FastAPI-powered chatbot that fetches real-time news based on user interests and summarizes them.
