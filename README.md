@@ -11,7 +11,7 @@
 - <b>🕹️ [Checkers](https://github.com/smulamalla/Checkers)</b>:
   - Functional two-player checkers game in Python.
 - <b>✍️ [Wikipedia Censorship Visualization](https://github.com/smulamalla/WikipediaCensorshipVisualization)</b>:
-  - Data visualization pipeline that analyzes and presents patterns in Wikipedia content moderation/censorship across regions.
+  - Data visualization pipeline that analyzes and presents patterns in Wikipedia content moderation across regions.
 - <b>🤖 [To-Do Bot](https://github.com/smulamalla/ToDoBot)</b>:
   - A Python-based task managing bot that aids you in organizing various errands.
 - <b>🤔 [Guess The Number](https://github.com/smulamalla/GuessTheNumber)</b>:
