@@ -1,25 +1,26 @@
-<h1>👋 Welcome to My GitHub!<br/>
+<h1>Welcome to My GitHub!<br/>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>My Projects:</h2>
 
-- <b>📂 [Personal Portfolio Website](https://sohan4513.github.io/)</b>:
+- <b>📂 [Personal Portfolio Website](https://smulamalla.github.io/)</b>:
   - A personal website to showcase projects and technical skills.
-- <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/Sohan4513/WeightCorrelationAIBot)</b>:
+- <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/smulamalla/WeightCorrelationAIBot)</b>:
   - A data-driven project analyzing obesity-related factors using CDC BRFSS data through AI.
-- <b>🗞️ [News Chat Bot](https://github.com/Sohan4513/NewsChatBot)</b>:
+- <b>🗞️ [News Chat Bot](https://github.com/smulamalla/NewsChatBot)</b>:
   - A FastAPI-powered chatbot that fetches real-time news based on user interests and summarizes them.
-- <b>🕹️ [Checkers](https://github.com/Sohan4513/Checkers)</b>:
+- <b>🕹️ [Checkers](https://github.com/smulamalla/Checkers)</b>:
   - Functional two-player checkers game in Python.
-- <b>🤖 [To-Do Bot](https://github.com/Sohan4513/ToDoBot)</b>:
+- <b>✍️ [Wikipedia Censorship Visualization](https://github.com/smulamalla/WikipediaCensorshipVisualization)</b>:
+  - Data visualization pipeline that analyzes and presents patterns in Wikipedia content moderation/censorship across regions.
+- <b>🤖 [To-Do Bot](https://github.com/smulamalla/ToDoBot)</b>:
   - A Python-based task managing bot that aids you in organizing various errands.
-- <b>🤔 [Guess The Number](https://github.com/Sohan4513/GuessTheNumber)</b>:
+- <b>🤔 [Guess The Number](https://github.com/smulamalla/GuessTheNumber)</b>:
   - A simple, but fun guessing game in C.
-- <b>📚 [Student Grade Calculator](https://github.com/Sohan4513/StudentGradeCalculator)</b>:
+- <b>📚 [Student Grade Calculator](https://github.com/smulamalla/StudentGradeCalculator)</b>:
   - A C-based calculator used to compute the GPA for a single or multiple classes.
 
-<h2>🤳 Connect With Me:</h2>
+<h2>Connect With Me:</h2>
 
-
-[<img align="left" alt="Sohan Mulamalla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/sohan-mulamalla-7946602b1
+- Email: smulamalla@uchicago.edu
+- LinkedIn: https://www.linkedin.com/in/smulamalla/
+- Handshake: https://uchicago.joinhandshake.com/profiles/smulamalla
